@@ -1,0 +1,8 @@
+{
+  "name": "bets-banner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/amslimaa/bets-banner.git",
+  "author": "amslimaa",
+  "license": "MIT"
+}
